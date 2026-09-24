@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32627923/README.md)
 # More Map Variations (MMV) + Seamless Co-op for Elden Ring: Nightreign
 
 A working **ModEngine 3 (me3)** profile that runs **More Map Variations (MMV)** together with **Seamless Co-op** in *Elden Ring: Nightreign* — so you can play modded runs with a full group of up to **6 players**, **no Server Redirector needed**.
